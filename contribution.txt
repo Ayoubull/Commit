@@ -22,3 +22,4 @@ Update README with new information on 2023-08-02 20:47:03.464577+00:00
 Add new feature to the project on 2023-08-02 20:47:03.464577+00:00
 Update README with new information on 2023-08-03 20:47:03.464574+00:00
 Add new feature to the project on 2023-08-04 20:47:03.464570+00:00
+Remove deprecated functions on 2023-08-04 20:47:03.464570+00:00
