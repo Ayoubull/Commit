@@ -119,3 +119,4 @@ Fix typo in documentation on 2023-09-05 20:47:03.464428+00:00
 Update dependencies to latest version on 2023-09-05 20:47:03.464428+00:00
 Add unit tests for new feature on 2023-09-05 20:47:03.464428+00:00
 Update dependencies to latest version on 2023-09-05 20:47:03.464428+00:00
+Update README with new information on 2023-09-06 20:47:03.464424+00:00
