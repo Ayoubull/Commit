@@ -125,3 +125,4 @@ Add unit tests for new feature on 2023-09-06 20:47:03.464424+00:00
 Remove deprecated functions on 2023-09-06 20:47:03.464424+00:00
 Update dependencies to latest version on 2023-09-06 20:47:03.464424+00:00
 Fix typo in documentation on 2023-09-07 20:47:03.464419+00:00
+Remove deprecated functions on 2023-09-08 20:47:03.464414+00:00
