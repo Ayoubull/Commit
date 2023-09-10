@@ -138,3 +138,4 @@ Update dependencies to latest version on 2023-09-09 20:47:03.464410+00:00
 Add unit tests for new feature on 2023-09-10 20:47:03.464405+00:00
 Update dependencies to latest version on 2023-09-10 20:47:03.464405+00:00
 Update README with new information on 2023-09-10 20:47:03.464405+00:00
+Fix typo in documentation on 2023-09-10 20:47:03.464405+00:00
