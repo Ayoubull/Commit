@@ -179,3 +179,4 @@ Remove deprecated functions on 2023-09-22 20:47:03.464353+00:00
 Fix typo in documentation on 2023-09-23 20:47:03.464349+00:00
 Refactor code for better readability on 2023-09-24 20:47:03.464344+00:00
 Improve performance of the algorithm on 2023-09-24 20:47:03.464344+00:00
+Update README with new information on 2023-09-25 20:47:03.464340+00:00
