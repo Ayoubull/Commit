@@ -181,3 +181,4 @@ Refactor code for better readability on 2023-09-24 20:47:03.464344+00:00
 Improve performance of the algorithm on 2023-09-24 20:47:03.464344+00:00
 Update README with new information on 2023-09-25 20:47:03.464340+00:00
 Fix typo in documentation on 2023-09-25 20:47:03.464340+00:00
+Update README with new information on 2023-09-26 20:47:03.464336+00:00
