@@ -279,3 +279,4 @@ Correct spelling errors in comments on 2023-10-28 20:47:03.464197+00:00
 Fix typo in documentation on 2023-10-29 20:47:03.464193+00:00
 Add unit tests for new feature on 2023-10-29 20:47:03.464193+00:00
 Fix typo in documentation on 2023-10-29 20:47:03.464193+00:00
+Remove deprecated functions on 2023-10-29 20:47:03.464193+00:00
