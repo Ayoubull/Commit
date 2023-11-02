@@ -285,3 +285,4 @@ Remove deprecated functions on 2023-10-31 20:47:03.464185+00:00
 Refactor code for better readability on 2023-10-31 20:47:03.464185+00:00
 Remove deprecated functions on 2023-11-01 20:47:03.464182+00:00
 Update README with new information on 2023-11-01 20:47:03.464182+00:00
+Fix typo in documentation on 2023-11-02 20:47:03.464179+00:00
