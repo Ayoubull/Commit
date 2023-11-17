@@ -328,3 +328,4 @@ Fix typo in documentation on 2023-11-16 20:47:03.464118+00:00
 Add unit tests for new feature on 2023-11-16 20:47:03.464118+00:00
 Update README with new information on 2023-11-16 20:47:03.464118+00:00
 Remove deprecated functions on 2023-11-17 20:47:03.464114+00:00
+Fix bug in data processing logic on 2023-11-17 20:47:03.464114+00:00
