@@ -355,3 +355,4 @@ Fix bug in data processing logic on 2023-11-26 20:47:03.464074+00:00
 Update README with new information on 2023-11-26 20:47:03.464074+00:00
 Correct spelling errors in comments on 2023-11-26 20:47:03.464074+00:00
 Refactor code for better readability on 2023-11-27 20:47:03.464070+00:00
+Improve performance of the algorithm on 2023-11-27 20:47:03.464070+00:00
