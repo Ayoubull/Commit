@@ -371,3 +371,4 @@ Fix typo in documentation on 2023-11-30 20:47:03.464056+00:00
 Improve performance of the algorithm on 2023-11-30 20:47:03.464056+00:00
 Update README with new information on 2023-11-30 20:47:03.464056+00:00
 Improve performance of the algorithm on 2023-12-01 20:47:03.464053+00:00
+Add unit tests for new feature on 2023-12-01 20:47:03.464053+00:00
