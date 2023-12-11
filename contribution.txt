@@ -393,3 +393,4 @@ Refactor code for better readability on 2023-12-09 20:47:03.464023+00:00
 Update dependencies to latest version on 2023-12-10 20:47:03.464019+00:00
 Refactor code for better readability on 2023-12-10 20:47:03.464019+00:00
 Fix bug in data processing logic on 2023-12-11 20:47:03.464015+00:00
+Remove deprecated functions on 2023-12-11 20:47:03.464015+00:00
