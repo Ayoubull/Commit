@@ -443,3 +443,4 @@ Add new feature to the project on 2023-12-24 20:47:03.463958+00:00
 Update dependencies to latest version on 2023-12-25 20:47:03.463953+00:00
 Fix typo in documentation on 2023-12-25 20:47:03.463953+00:00
 Update README with new information on 2023-12-25 20:47:03.463953+00:00
+Refactor code for better readability on 2023-12-25 20:47:03.463953+00:00
