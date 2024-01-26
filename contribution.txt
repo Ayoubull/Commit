@@ -540,3 +540,4 @@ Update dependencies to latest version on 2024-01-25 20:47:03.463821+00:00
 Update README with new information on 2024-01-26 20:47:03.463816+00:00
 Remove deprecated functions on 2024-01-26 20:47:03.463816+00:00
 Refactor code for better readability on 2024-01-26 20:47:03.463816+00:00
+Refactor code for better readability on 2024-01-26 20:47:03.463816+00:00
