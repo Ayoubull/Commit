@@ -542,3 +542,4 @@ Remove deprecated functions on 2024-01-26 20:47:03.463816+00:00
 Refactor code for better readability on 2024-01-26 20:47:03.463816+00:00
 Refactor code for better readability on 2024-01-26 20:47:03.463816+00:00
 Update dependencies to latest version on 2024-01-26 20:47:03.463816+00:00
+Update README with new information on 2024-01-27 20:47:03.463811+00:00
