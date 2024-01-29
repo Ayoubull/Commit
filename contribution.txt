@@ -546,3 +546,4 @@ Update README with new information on 2024-01-27 20:47:03.463811+00:00
 Update dependencies to latest version on 2024-01-28 20:47:03.463807+00:00
 Improve performance of the algorithm on 2024-01-28 20:47:03.463807+00:00
 Update README with new information on 2024-01-28 20:47:03.463807+00:00
+Fix typo in documentation on 2024-01-29 20:47:03.463802+00:00
