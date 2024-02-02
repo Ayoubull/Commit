@@ -561,3 +561,4 @@ Update README with new information on 2024-01-31 20:47:03.463793+00:00
 Remove deprecated functions on 2024-01-31 20:47:03.463793+00:00
 Refactor code for better readability on 2024-02-01 20:47:03.463789+00:00
 Add new feature to the project on 2024-02-01 20:47:03.463789+00:00
+Fix typo in documentation on 2024-02-02 20:47:03.463785+00:00
