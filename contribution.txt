@@ -614,3 +614,4 @@ Fix typo in documentation on 2024-02-18 20:47:03.463689+00:00
 Add unit tests for new feature on 2024-02-19 20:47:03.463685+00:00
 Remove deprecated functions on 2024-02-19 20:47:03.463685+00:00
 Update dependencies to latest version on 2024-02-19 20:47:03.463685+00:00
+Refactor code for better readability on 2024-02-19 20:47:03.463685+00:00
