@@ -625,3 +625,4 @@ Refactor code for better readability on 2024-02-21 20:47:03.463676+00:00
 Improve performance of the algorithm on 2024-02-21 20:47:03.463676+00:00
 Update README with new information on 2024-02-22 20:47:03.463673+00:00
 Add new feature to the project on 2024-02-22 20:47:03.463673+00:00
+Remove deprecated functions on 2024-02-22 20:47:03.463673+00:00
