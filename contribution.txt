@@ -821,3 +821,4 @@ Update README with new information on 2024-04-25 20:47:03.463422+00:00
 Update README with new information on 2024-04-26 20:47:03.463418+00:00
 Remove deprecated functions on 2024-04-26 20:47:03.463418+00:00
 Update dependencies to latest version on 2024-04-26 20:47:03.463418+00:00
+Improve performance of the algorithm on 2024-04-27 20:47:03.463413+00:00
