@@ -857,3 +857,4 @@ Refactor code for better readability on 2024-05-06 20:47:03.463371+00:00
 Refactor code for better readability on 2024-05-07 20:47:03.463366+00:00
 Update README with new information on 2024-05-07 20:47:03.463366+00:00
 Refactor code for better readability on 2024-05-08 20:47:03.463362+00:00
+Remove deprecated functions on 2024-05-08 20:47:03.463362+00:00
